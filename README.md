@@ -19,8 +19,8 @@ two classification algorithms — Naive Bayes and Logistic Regression.
 ## Model Results
 | Model               | Accuracy | Precision | Recall | F1 Score |
 |---------------------|----------|-----------|--------|----------|
-| Naive Bayes         | 98.48%   | 99.25%    | 89.26% | 93.99%   |
-| Logistic Regression | 97.85%   | 100.00%   | 83.89% | 91.24%   |
+| Naive Bayes         | 97.85%   | 100.00%   | 84.00% | 91.30%   |
+| Logistic Regression | 96.41%   | 97.41%    | 75.33% | 84.96%   |
 
 ## Conclusion
 Naive Bayes outperforms Logistic Regression for this task
